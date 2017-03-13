@@ -1,4 +1,4 @@
-package com.antonakospanos.amazon.practice;
+package com.antonakospanos.amazon.practice.io;
 
 import java.io.BufferedWriter;
 import java.io.File;

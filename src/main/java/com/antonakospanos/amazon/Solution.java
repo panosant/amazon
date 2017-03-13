@@ -2,9 +2,9 @@ package com.antonakospanos.amazon;
 
 import com.antonakospanos.amazon.exam.ex2.Exercise2;
 import com.antonakospanos.amazon.practice.Equilibrium;
-import com.antonakospanos.amazon.practice.HelloWorldPrinter;
 import com.antonakospanos.amazon.practice.PowerSum;
-import com.antonakospanos.amazon.practice.StateFileWriter;
+import com.antonakospanos.amazon.practice.io.HelloWorldPrinter;
+import com.antonakospanos.amazon.practice.io.StateFileWriter;
 import com.antonakospanos.amazon.sample.IntegerSum;
 import com.antonakospanos.amazon.sample.StairCase;
 
