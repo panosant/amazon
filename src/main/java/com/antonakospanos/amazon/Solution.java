@@ -1,6 +1,6 @@
 package com.antonakospanos.amazon;
 
-import com.antonakospanos.amazon.exam.ex2.Exercise2;
+import com.antonakospanos.amazon.exam.ex2.Exercise2a;
 import com.antonakospanos.amazon.practice.Equilibrium;
 import com.antonakospanos.amazon.practice.PowerSum;
 import com.antonakospanos.amazon.practice.io.HelloWorldPrinter;
@@ -48,7 +48,7 @@ public class Solution {
 	
 	private static void ex2() {
 		logStart(2);
-		new Exercise2().run();
+//		new Exercise2().run();
 		logEnd(2);
 	}
 
