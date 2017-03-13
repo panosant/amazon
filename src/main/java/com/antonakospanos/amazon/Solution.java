@@ -1,8 +1,8 @@
 package com.antonakospanos.amazon;
 
 import com.antonakospanos.amazon.exam.ex2.Exercise2;
+import com.antonakospanos.amazon.practice.Equilibrium;
 import com.antonakospanos.amazon.practice.HelloWorldPrinter;
-import com.antonakospanos.amazon.practice.InputPrinter;
 import com.antonakospanos.amazon.practice.PowerSum;
 import com.antonakospanos.amazon.practice.StateFileWriter;
 import com.antonakospanos.amazon.sample.IntegerSum;
@@ -30,6 +30,7 @@ public class Solution {
 		IntegerSum.getSum(new int[] {1,2,3,4,5,6});
 		new StairCase(5);
 		
+		new Equilibrium().run(new int[] {-1,3,-4,5,1,-6,2,1});
 		new PowerSum().run();
 	}
 
